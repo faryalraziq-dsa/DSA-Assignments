@@ -8,7 +8,7 @@
 using namespace std;
 
 /* =========================================================
-   Q1 – ARRAYS & SEARCHING
+   Q1 â€“ ARRAYS & SEARCHING
    ========================================================= */
 
 // Q1.A.1
@@ -51,7 +51,7 @@ void findMinMax(int arr[], int size, int &minVal, int &maxVal) {
 }
 
 /* =========================================================
-   Q2 – BUBBLE SORT
+   Q2 â€“ BUBBLE SORT
    ========================================================= */
 
 // Q2.A.1
@@ -88,7 +88,7 @@ void bubbleSort(int arr[], int size, int &swapCount) {
 }
 
 /* =========================================================
-   Q3 – BINARY SEARCH
+   Q3 â€“ BINARY SEARCH
    ========================================================= */
 
 // Q3.A.1
@@ -122,7 +122,7 @@ int binarySearch(int arr[], int size, int key, int &iterations) {
 }
 
 /* =========================================================
-   Q4 – COMPLEXITY ANALYSIS
+   Q4 â€“ COMPLEXITY ANALYSIS
    ========================================================= */
 
 // Q4.A.1
@@ -143,7 +143,7 @@ int binarySearch(int arr[], int size, int key, int &iterations) {
 // If array of size n created ? O(n)
 
 // Q4.A.5
-// Wrong. Faster computer doesn’t beat algorithm efficiency for large n.
+// Wrong. Faster computer doesnâ€™t beat algorithm efficiency for large n.
 
 // Q4.B.1
 // Nested loop ? O(n^2)
@@ -178,7 +178,7 @@ bool checkArrays(int A[], int B[], int n) {
 // Better approach: use sorting or hashing ? O(n log n) or O(n)
 
 /* =========================================================
-   Q5 – LINKED LIST
+   Q5 â€“ LINKED LIST
    ========================================================= */
 
 // Q5.A.1
@@ -326,5 +326,5 @@ int main() {
     return 0;
 }
 
-// https://github.com/faryalraziq-dsa/DSA-Assignments/upload/main
+https://github.com/faryalraziq-dsa/DSA-Assignments/blob/main/README.md
 
